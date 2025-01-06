@@ -68,7 +68,7 @@ The response includes a list of species with their details:
 ```
 <br>
 
-| Endpoint Available |
+| Endpoints Available |
 | -- |
 | api/v1?category=fish-sharks |
 | api/v1?category=whales |
