@@ -15,7 +15,7 @@ Prerequisites: Java 17 and Maven must be installed!
 
 1. Clone the repository:
    ```
-   git clone https://github.com/SamilyLeal/noaa-fisheries-species/
+   git clone https://github.com/SamilyLeal/noaa-fisheries-species.git
    ```
 3. Navigate to the project directory:
    ```
